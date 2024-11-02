@@ -32,8 +32,8 @@ Maintains a time log of all the users using the application.
 
 The following are the technologies that have been used in the development of this project.
 
-JetBrains IntelliJ IDE
+|| JetBrains IntelliJ IDE ||
 
-Apache NetBeans IDE (for the GUI designer)
+|| Apache NetBeans IDE (for the GUI designer) ||
 
-MySQL Server and Workbench
+|| MySQL Server and Workbench ||
