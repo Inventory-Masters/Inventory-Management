@@ -1,0 +1,2 @@
+cd "C:\Users\akash\Documents\CLASS\SSET\S5 SQL-CON\out\artifacts\InventoryManagement_jar\lib\DBCredentials.xml"
+java -jar "C:\Users\akash\Documents\CLASS\SSET\S5 SQL-CON\out\artifacts\InventoryManagement_jar\InventoryManagement.jar"
