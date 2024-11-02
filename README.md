@@ -29,6 +29,7 @@ Users only need to enter the product code while making a sale and all the releva
 Maintains a time log of all the users using the application.
 
 # Technologies Used
+
 The following are the technologies that have been used in the development of this project.
 
 -JetBrains IntelliJ IDE
