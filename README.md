@@ -27,3 +27,10 @@ Each section includes a search feature to make it easier for users to view the d
 Users only need to enter the product code while making a sale and all the relevant details will be retrieved from the database automatically.
 
 Maintains a time log of all the users using the application.
+
+# Technologies Used
+The following are the technologies that have been used in the development of this project.
+
+-JetBrains IntelliJ IDE
+-Apache NetBeans IDE (for the GUI designer)
+-MySQL Server and Workbench
