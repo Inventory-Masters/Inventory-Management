@@ -102,5 +102,27 @@ Stores and shows the administrator a log of all the users that have previously l
 
 ***
 
+## How to download and run the software
 
+1. Download and unzip the folder.
+2. Import the SQL dump file using MySQL Workbench to locally create the sample schema and tables associated with this software.
+3. After the inventory schema has been locally created, you can go ahead and run the JAR file (InventoryManagement.jar) included in the zip folder.
+4. Default credentials for the connection to MySQL database is:
+    - Username: root
+    - Password: root
+    Incase your database uses a different username and password to connect, follow these steps:
+    1. Go to the `lib` folder in the zip file that you downloaded.
+    2. Open the XML source file `DBCredentials.xml`.
+    3. Simply change the values of the two `entry` tags with values `username` and `password` from "root" to whatever username and password you are using. (Ln 12 and 13)
+        ```xml
+          <properties>
+          <comment>Credentials for the database.</comment>
+            <entry key="username">root</entry>
+            <entry key="password">root</entry>
+          </properties>
+        ```
+5. Once these credentials match, the JAR file should execute without any issues.
+6. You can log into the application using Username: `root` and Password: `root`.
+
+DISCLAIMER - This project was initially created and was sourced . I have made minor modifications to the original code. I am not the original creator, and full credit for the core of this project goes to its original author(s). This is used just for Educational Purposes.
 
