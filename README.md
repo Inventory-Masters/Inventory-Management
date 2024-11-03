@@ -69,13 +69,13 @@ This section allows the user to check the availability of every item.
 
 Here, the user can manage and manipulate the record of all the suppliers associated with the store.
 
-![Screenshot 2024-11-03 214655](https://github.com/user-attachments/assets/b75ed619-9e21-4df4-954f-ffb4af1b1272)
+![Screenshot 2024-11-03 214703](https://github.com/user-attachments/assets/9b27ca6c-dcf9-43f4-b009-2801f44ee235)
 
 ### Customers
 
 Allows user to add new customers or update/delete existing customers in the database.
 
-![Screenshot 2024-11-03 214703](https://github.com/user-attachments/assets/9b27ca6c-dcf9-43f4-b009-2801f44ee235)
+![Screenshot 2024-11-03 214655](https://github.com/user-attachments/assets/b75ed619-9e21-4df4-954f-ffb4af1b1272)
 
 ### Sales
 
